@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(5,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(7,8): error C2659: '=': function as left operand
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(10,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,2): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): error C2568: '[': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(13,7): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(16,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): error C2568: '<=': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(20,31): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(22,8): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(22,21): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(24,15): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(25,5): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(25,18): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(26,5): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(32,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): error C2568: '<=': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(36,11): error C2065: 'numbers': undeclared identifier
+  NumberList.cpp
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(5,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(7,8): error C2659: '=': function as left operand
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(10,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,2): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): error C2568: '[': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(12,15): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(13,7): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(16,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): error C2568: '<=': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(18,28): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(20,31): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(22,8): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(22,21): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(24,15): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(25,5): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(25,18): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(26,5): error C2065: 'numbers': undeclared identifier
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(32,6): error C2653: 'NumberList': is not a class or namespace name
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): error C2563: mismatch in formal parameter list
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): error C2568: '<=': unable to resolve function overload
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(35,28): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP Lab2\OOP Lab2\NumberList.cpp(36,11): error C2065: 'numbers': undeclared identifier
+  OOP Lab2.cpp
+  Generating Code...
