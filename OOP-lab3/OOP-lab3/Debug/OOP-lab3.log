@@ -1,0 +1,8 @@
+﻿  Math.cpp
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-lab3\Math.cpp(15,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-lab3\Math.cpp(20,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-lab3\Math.cpp(35,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-lab3\Math.cpp(41,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  OOP-lab3.vcxproj -> C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\Debug\OOP-lab3.exe
