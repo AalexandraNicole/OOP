@@ -1,7 +1,6 @@
 #pragma once
 #include <iostream>
 #include <cmath>
-#include "plot.h"
 #define pi 3.141592
 using namespace std;
 

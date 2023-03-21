@@ -1,22 +1,2 @@
-﻿  Canvas.cpp
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(4,59): error C2061: syntax error: identifier 'Canvas'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(5,60): error C2061: syntax error: identifier 'Canvas'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(19,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(20,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(56,4): error C2660: 'plotLineLow': function does not take 6 arguments
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(4,6): message : see declaration of 'plotLineLow'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(56,4): message : while trying to match the argument list '(int, int, int, int, char, Canvas *)'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(58,4): error C2660: 'plotLineLow': function does not take 6 arguments
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(4,6): message : see declaration of 'plotLineLow'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(58,4): message : while trying to match the argument list '(int, int, int, int, char, Canvas *)'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(61,4): error C2660: 'plotLineHigh': function does not take 6 arguments
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(5,6): message : see declaration of 'plotLineHigh'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(61,4): message : while trying to match the argument list '(int, int, int, int, char, Canvas *)'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(63,4): error C2660: 'plotLineHigh': function does not take 6 arguments
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(5,6): message : see declaration of 'plotLineHigh'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\Canvas.cpp(63,4): message : while trying to match the argument list '(int, int, int, int, char, Canvas *)'
-  main.cpp
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(4,59): error C2061: syntax error: identifier 'Canvas'
-C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\OOP-Lab3-EX2\plot.h(5,60): error C2061: syntax error: identifier 'Canvas'
-  Generating Code...
+﻿  main.cpp
+  OOP-Lab3-EX2.vcxproj -> C:\Users\CORNEA\Documents\GitHub\OOP\OOP-lab3\Debug\OOP-Lab3-EX2.exe
