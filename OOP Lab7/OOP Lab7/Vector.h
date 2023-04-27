@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
-
+// Lab 7 ex 2 (cumva)
 template <typename T>
 class Vector {
 private:

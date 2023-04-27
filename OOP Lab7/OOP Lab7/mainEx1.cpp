@@ -1,4 +1,5 @@
 #include <iostream>
+// Laboratorul 7 Ex 1
 
 float operator "" _Kelvin(const char* x){
     float value = strtof(x, nullptr);
