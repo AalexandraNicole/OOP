@@ -6,5 +6,4 @@ public:
 	Seat();
 	void printName() override;
 	const float speedBasedOnWeather(Weather) override;
-
 };
