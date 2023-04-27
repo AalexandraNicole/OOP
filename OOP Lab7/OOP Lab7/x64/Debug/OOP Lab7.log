@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\CORNEA\OneDrive\Documente\GitHub\OOP\OOP Lab7\OOP Lab7\main.cpp(5,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\CORNEA\OneDrive\Documente\GitHub\OOP\OOP Lab7\OOP Lab7\main.cpp(9,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  OOP Lab7.vcxproj -> C:\Users\CORNEA\OneDrive\Documente\GitHub\OOP\OOP Lab7\x64\Debug\OOP Lab7.exe
